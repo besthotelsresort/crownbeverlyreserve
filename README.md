@@ -1,0 +1,2 @@
+# crownbeverlyreserve
+Static site: crownbeverlyreserve
