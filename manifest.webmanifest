@@ -1,0 +1,26 @@
+{
+  "name": "Crown Beverly Reserve",
+  "short_name": "Crown",
+  "description": "Crown Beverly Reserve: A private coast, a quiet welcome, an unhurried stay",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f2ec",
+  "theme_color": "#6e2b2b",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
